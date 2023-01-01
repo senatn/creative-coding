@@ -1,4 +1,8 @@
-As I delve deeper into the world of computer science, I often come across fascinating topics like generative art, the Game of Life, Turing patterns, and automata. These concepts have piqued my curiosity, and I've been eager to get started with using [Processing](https://processing.org/) (or any other graphical library) to explore them further. I also want to use Processing for music visualization / sound mapping but I decided to start with a simple example.
+As I delve deeper into the world of computer science, I often come across fascinating topics like generative art, the Game of Life, Turing patterns, and automata. These concepts have piqued my curiosity, and I've been eager to get started with using [Processing](https://processing.org/) (or any other graphical library) to explore them further. 
+
+## circle pattern processing 26.12.2022
+
+I want to use Processing for music visualization / sound mapping but I decided to start with a simple example.
 
 Here are the tutorials that I used to get started:
 
@@ -6,4 +10,12 @@ Here are the tutorials that I used to get started:
 
 [How to render Processing sketch as a movie](https://youtu.be/G2hI9XL6oyk)
 
-## circle_pattern_processing_first_test 26.12.2022
+## metaball 01.01.2023
+
+I wanted to create a visually entertaining image for the upcoming New Year's celebration. In the tutorial I followed was used to a pixel-based approach to create metaballs. However, during my exploration of this topic, I discovered the Marching Squares method. I want to utilize this technique to produce something in the future.
+
+Tutorials:
+
+[Coding Challenge #28: Metaballs](https://youtu.be/ccYLb7cLB1I?list=PLmQEHzmcNEaV5plovxc113KIW6D-USVgr)
+
+[Metaballs and Marching Squares](https://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/)
